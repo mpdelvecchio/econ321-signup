@@ -45,8 +45,7 @@ const SHEETS = {
       { id: "S08", title: "11:50 – 12:00 PM", detail: "Tuesday, December 8" },
       { id: "S09", title: "12:00 – 12:10 PM", detail: "Tuesday, December 8" },
       { id: "S10", title: "12:10 – 12:20 PM", detail: "Tuesday, December 8" },
-      { id: "S11", title: "12:20 – 12:30 PM", detail: "Tuesday, December 8" },
-      { id: "S12", title: "12:30 – 12:40 PM", detail: "Tuesday, December 8" }
+      { id: "S11", title: "12:20 – 12:30 PM", detail: "Tuesday, December 8" }
     ]
   }
 };
